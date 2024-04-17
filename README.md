@@ -9,5 +9,6 @@ Untuk Api automation menggunakan https://reqres.in/ dengan :
 3.  PUT - user
 4.  UPDATE - user
 5.  DELETE - user
+
 Untuk repositori github berisi proyek otomatisasi API dan Web UI dan file bernama .github/workflows/main.yml
 pada direktori root repositori dan untuk artefak dari hasil pengujian dalam pipeline dengan menggunakan tindakan/unggah-artefak.
