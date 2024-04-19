@@ -2,7 +2,8 @@ package APIautomation;
 import io.restassured.RestAssured;
 import org.hamcrest.Matchers;
 import org.json.JSONObject;
-import org.testng.annotations.Test;
+import org.junit.Test;
+
 import java.util.HashMap;
 import static io.restassured.RestAssured.given;
 
